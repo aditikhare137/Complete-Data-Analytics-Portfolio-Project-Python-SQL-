@@ -222,7 +222,7 @@ WITH support_by_customer AS (
 )
 SELECT
     s.customerid,
-    c.customer_name,
+    c.name AS customer_name,
     c.country,
     c.state,
     c.gender,
