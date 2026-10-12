@@ -6,7 +6,7 @@ An exploratory data analysis project focused on understanding customer churn, re
 
 Customer churn occurs when customers stop using or cancel a service. This project combines customer, subscription, and support data to calculate churn-related KPIs, explore patterns across subscription plans and locations, and examine whether support escalations are associated with churn.
 
-The analysis is implemented in the Jupyter Notebook: churn analysis pdf 
+The analysis is documented here: [Customer Churn Analysis PDF](churn%20analysis%20pdf%20for%20resume.pdf)
 
 ## Objectives
 
