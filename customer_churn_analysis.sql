@@ -7,6 +7,7 @@
 -- Churn is defined consistently with the Python notebook:
 -- cancellation_date IS NOT NULL.
 --
+--
 -- Important:
 -- db_support may contain multiple rows per customer. Queries that join support
 -- data aggregate it first so complaint rows do not multiply subscription rows.
